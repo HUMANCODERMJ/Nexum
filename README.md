@@ -1,4 +1,4 @@
-# Drive Discovery Agent — Backend
+# Nexum — Backend
 
 A conversational AI agent that searches, filters, and discovers files within a designated Google Drive folder. Built with FastAPI, LangGraph, and supports both Google Gemini and Ollama (local) as LLM providers.
 
